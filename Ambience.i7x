@@ -152,8 +152,9 @@ Example: ** Ambient noises and scents.
 	The scent of the Metasyntactic is "A general smell.".
 
 
-	Test ambient with "listen. smell".
+	Test ambient with "listen / smell".
 
-	Test go with "test ambient. n".
+	Test go with "test ambient / n".
 
-	Test me with "test go. test go. test go. test go. test go. test go. test go. test go. test go. test go. test ambient".
+	Test me with "test go / g / g / g / g / g / g / g / g / g / test ambient".
+
