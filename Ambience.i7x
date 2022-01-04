@@ -156,5 +156,5 @@ Example: ** Ambient noises and scents.
 
 	Test go with "test ambient / n".
 
-	Test me with "test go / g / g / g / g / g / g / g / g / g / test ambient".
+	Test me with "test go / test go / test go / test go / test go / test go / test go / test go / test go / test go / test ambient".
 
