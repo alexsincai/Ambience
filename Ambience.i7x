@@ -96,6 +96,7 @@ Example: ** Ambient noises and scents.
 
 	The sound of the clock is "The clock goes tick-tock.".
 
+
 	Spam is north of Eggs. The description is "Spam contains a smelly thing."
 
 	Some cheese is in Spam. The description is "The cheese is a fragrant thing."
